@@ -1,0 +1,83 @@
+*{
+		margin:0;
+		padding:0;
+		box-sizing:border-box;
+		font-family:"jost";
+ }
+ 
+.section1
+{
+		height:100vh;
+		width:100%;
+		background-image:url('D:/html_study/project2/images/nature-beauty.jpg');
+		background-repeat:no-repeat;
+		background-size:100% auto;
+		place-items:center;
+		text-align:center;
+		display:grid;
+		background-attachment:fixed;
+}
+h1
+{
+		font-size:27px;
+		background-color:#000;
+		color:#fff;
+		text-transform:uppercase;
+		letter-spacing:8px;
+		padding:20px;
+}
+.section2
+{
+		padding:50px 80px;
+		text-align:center;
+		background-color:#fff;
+		color:#666;
+}
+.section3
+{
+		text-align:center;
+		display:grid;
+        background-color:red;	
+		min-height:400px;
+		background-attachment:fixed;
+		
+		
+}
+.section4
+{
+		padding:50px 80px;
+		text-align:center;
+		background-image:url("D:/html_study/project2/images/butterfly forest.jpg");
+		background-repeat:no-repeat;
+		background-size:100% auto;
+		color:#ddd;
+		min-height:400px;
+}
+.section5
+{
+		min-height:400px;
+		text-align:center;
+		background-image:url('D:/html_study/project2/images/nature-beauty.jpg');
+		background-repeat:no-repeat;
+		background-size:100% auto;
+		background-attachment:fixed;
+		place-items:center;
+		display:grid;
+}
+.section6
+{
+		padding:50px 80px;
+		text-align:center;
+}
+.section7
+{
+	height:100vh;
+	width:100%;
+	text-align:center;
+	background-image:url('D:/html_study/project2/images/nature-beauty.jpg');
+	background-repeat:no-repeat;
+	background-size:100% auto;
+	display:grid;
+	place-items:center;
+	background-attachment:fixed;
+}
